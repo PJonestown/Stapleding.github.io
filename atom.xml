@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Stapleding.github.io/atom.xml" rel="self"/>
   <link href="http://Stapleding.github.io/"/>
-  <updated>2015-02-05T21:15:49-06:00</updated>
+  <updated>2015-02-05T21:40:12-06:00</updated>
   <id>http://Stapleding.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fingers Crossed]]></title>
+    <link href="http://Stapleding.github.io/blog/2015/02/05/fingers-crossed/"/>
+    <updated>2015-02-05T21:38:55-06:00</updated>
+    <id>http://Stapleding.github.io/blog/2015/02/05/fingers-crossed</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
